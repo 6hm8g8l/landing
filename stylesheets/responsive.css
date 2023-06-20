@@ -1,0 +1,455 @@
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+
+
+body {
+  overflow-x: hidden;
+}
+section {
+  height: 216.794vw;
+  margin: 0;
+  overflow: hidden;
+}
+h1 {
+  font-size: 3.56vw;
+}
+
+h2 {
+  font-size: 7.63vw;
+}
+h3 {
+  font-size: 6.7vw;
+}
+.navigation {
+  width: 90.08vw;
+  margin-left: 5%;
+  margin-top: 6%;
+}
+.ouch {
+  margin-top: 3%;
+  text-align: center;
+  width: 100vw;
+}
+.firstheaddiv {
+  display: flex;
+  justify-content: space-around;
+}
+.firsthead {
+  display: none;
+}
+.firstheadmob {
+  display: block;
+  width: 89.57vw;
+}
+
+.divgo {
+  margin-top: 3%;
+  text-align: center;
+  width: 100vw;
+}
+.backgo {
+  width: 35.96vw;
+}
+.go {
+  margin-top: 2%;
+  font-size: 5.09vw;
+  padding-left: 6.11vw;
+  padding-right: 6.11vw;
+  padding-top: 2.04vw;
+  padding-bottom: 2.04vw;
+  width: 19.5vw;
+}
+.mountaindiv {
+  text-align: center;
+  margin-top: 6%;
+  margin-left: -8%;
+}
+.mountain {
+  display: none;
+  width: 112vw;
+}
+.mountainmob {
+  display: block;
+  height: 182vw;
+}
+.logodiv {
+  margin-top: -126%;
+}
+.logo {
+  width: 89.82vw;
+}
+.sparkdiv {
+  position: relative;
+  margin-top: 74%;
+  margin-left: 5%;
+}
+.spark {
+  width: 30.09vw;
+}
+.header {
+  width: 78.12vw;
+}
+.firsttextd {
+  margin-top: 77%;
+}
+.firsttext {
+  width: 75.32vw;
+}
+.firsttextflex {
+  margin-top: 1%;
+}
+.masha {
+  width: 20.87vw;
+}
+.textaud {
+  margin-top: 1%;
+  margin-left: 1%;
+  width: 36.77vw;
+  font-size: 3.56vw;
+}
+.auditory {
+  margin-left: 51%;
+  margin-top: -112%;
+  display: block;
+}
+
+#six {
+  height: 216.794vw;
+}
+#seven {
+  height: 193.704vw;
+}
+.mustknowimg {
+  width: 104vw;
+}
+.mustknow {
+  margin-left: 0%;
+  margin-top: 96%;
+}
+.secondtextd {
+  margin-left: 6%;
+  margin-top: -195%;
+}
+.secondheader {
+  width: 40.2vw;
+}
+
+.secondtext {
+  width: 76vw;
+  margin-top: 1%;
+}
+
+.draw {
+  width: 41.48vw;
+}
+.backknow {
+  margin-top: 5%;
+  width: 47.45vw;
+}
+.know {
+  margin-top: 3%;
+  margin-left: 0%;
+  font-size: 5.09vw;
+  padding-left: 6.11vw;
+  padding-right: 6.11vw;
+  padding-top: 2.04vw;
+  padding-bottom: 2.04vw;
+  width: 23.9vw;
+}
+.know1 {
+  margin-top: 3%;
+  margin-left: 0%;
+  font-size: 5.09vw;
+  padding-left: 6.11vw;
+  padding-right: 6.11vw;
+  padding-top: 2.04vw;
+  padding-bottom: 2.04vw;
+  width: 32.04vw;
+}
+
+.thirdtextd {
+  text-align: center;
+  margin-top: 42%;
+}
+/* .thirdheader {
+  width: 51.68vw;
+}
+.thirdheadermobd {
+  display: none;
+} */
+
+.thirdheader {
+  display: none;
+}
+.thirdheadermobd {
+  display: flex;
+  justify-content: space-around;
+}
+.thirdheadermob {
+  text-align: center;
+  width: 71.76vw;
+}
+
+.thirdtext {
+  width: 73.5vw;
+  text-align: center;
+}
+.boy1d {
+  margin-left: 5%;
+  margin-top: -165%;
+}
+.boy1 {
+  width: 39.55vw;
+}
+.boy2d {
+  margin-left: 41%;
+  margin-top: 136%;
+}
+.boy2 {
+  width: 58.56vw;
+}
+.benefitsd {
+  text-align: right;
+  margin-top: -12%;
+}
+.benefitsimg {
+  margin-top: 100%;
+  height: auto;
+  width: 100vw;
+}
+.phoned {
+  position: relative;
+  text-align: right;
+  margin-top: -101vh;
+
+  margin-right: 8%;
+}
+.phone {
+  height: 88vh;
+}
+
+.fourthtextd {
+  margin-left: 6%;
+  margin-top: -206%;
+}
+.fourthheader {
+  width: 72.01vw;
+}
+.fourthtext {
+  width: 79vw;
+  margin-top: 1%;
+}
+
+.divgo1 {
+  margin-top: 6%;
+}
+.go1 {
+  margin-top: 2%;
+  margin-left: 0%;
+  font-size: 5.09vw;
+  padding-left: 6.11vw;
+  padding-right: 6.11vw;
+  padding-top: 2.04vw;
+  padding-bottom: 2.04vw;
+  width: 19.4vw;
+}
+.fourthtext2 {
+  margin-top: 1%;
+  width: 59vw;
+  font-size: 3.56vw;
+}
+.back {
+  width: 428vw;
+  height: auto;
+}
+.backdiv {
+  margin-left: 0%;
+  margin-top: 0%;
+}
+
+.lastlogo {
+  margin-top: -166%;
+}
+.logodiv1 {
+  width: 100vw;
+  margin-top: 0%;
+  text-align: center;
+}
+.logo1 {
+  width: 40.71vw;
+}
+
+.lastheaderdiv {
+  display: flex;
+  justify-content: space-around;
+}
+.lastheader {
+  width: 69.72vw;
+}
+.join1 {
+  text-align: center;
+  margin-top: 2%;
+}
+.backjoin {
+  width: 55.71vw;
+}
+.jointext {
+  margin-top: 1%;
+  font-size: 5.09vw;
+  padding-left: 6.11vw;
+  padding-right: 6.11vw;
+  padding-top: 2.04vw;
+  padding-bottom: 2.04vw;
+  width: 37.5vw;
+}
+.footer {
+  /* position: absolute; */
+  margin-top: 13%;
+  margin-left: 3%;
+  /* left: 3%;
+  bottom: -500vh; */
+  display: flex;
+  width: 94vw;
+  justify-content: space-between;
+}
+.leftfooter {
+  display: flex;
+  width: 17vw;
+  justify-content: space-between;
+}
+.promo {
+  text-align: center;
+}
+.backpromo {
+  width: 6.6vw;
+}
+.promotext {
+  margin-top: -35%;
+}
+.aboutus {
+  text-align: center;
+}
+.backaboutus {
+  width: 8.68vw;
+}
+.aboutustext {
+  margin-top: -27%;
+}
+.rightfooter {
+  display: flex;
+  width: 13.5vw;
+  justify-content: space-between;
+}
+.tg {
+  text-align: center;
+}
+.backtg {
+  width: 7.81vw;
+}
+.tgtext {
+  margin-top: -29%;
+}
+.vk {
+  text-align: center;
+}
+.backvk {
+  width: 4.17vw;
+}
+.vktext {
+  margin-top: -54%;
+}
+.O_Footer {
+  bottom: 0;
+  flex-direction: column;
+  gap: 32px;
+  height: 475px;
+  margin-top: 140px;
+  width: 100vw;
+}
+.M_FooterLinks {
+  align-items: center;
+  flex-direction: column;
+  gap: 0;
+  margin-right: 0;
+}
+.W_LinksColoumn {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.A_FooterLink {
+  color: #efefef;
+
+  font-size: 18px;
+  line-height: 146%;
+  margin: 4.5px 0;
+}
+.A_SeeYa {
+  font-family: InterRegular, sans-serif;
+  font-size: 18px;
+  line-height: 146%;
+}
+.M_MailCollectionBlock {
+  align-items: center;
+  margin-right: 0;
+  width: 180px;
+}
+.A_LeaveMailCall {
+  text-align: center;
+  width: 178px;
+}
+.A_MailInput {
+  text-align: center;
+  width: 178px;
+}
+.mailInput {
+  text-align: center;
+  width: 178px;
+}
+.A_Logo {
+  width: 46px;
+}
+.M_RightsReservedBlock {
+  align-items: center;
+  margin: 0;
+}
+.A_RightsReservedText {
+  text-align: center;
+  width: 134px;
+}
+.missionmobd{
+  display: flex;
+  justify-content: space-around;
+}
+.missionmob{
+  text-align: center;
+  width: 97.46vw;
+}
+.mission{
+  display: none;
+}
+.missiontext{
+  margin-top: 8%;
+  width: 79.5vw;
+  text-align: center;
+}
+.accentline{
+  width: 36vw;
+}
+.accentlined{
+  margin-top: -51%;
+  margin-left: 7%;
+}
+.missiond{
+  margin-top: 49%;
+}
+.qualitytext{
+  width: 82vw;
+  margin-top: 1%;
+}
+.qualityheader{
+  width: 47vw;
+}
+}
